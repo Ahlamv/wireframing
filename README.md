@@ -42,6 +42,7 @@ There are two main types of wireframes:
 - Used later in the process  
 - Show fonts, colors, spacing, and even interactions  
 - Example: A detailed prototype in Figma with clickable buttons
+- 👉 [View a high-fidelity wireframe example here](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)
 
 ---
 
